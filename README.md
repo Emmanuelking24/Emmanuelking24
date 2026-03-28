@@ -1,6 +1,12 @@
 ## Hi there 👋
+My name is **KAREEM EMMANUEL**, i want to become an **_Ml Engineer_**. 
+I am writing this down for my future self incase i make it and i want to strive to make it by **God's grace**,
+That for you to get here you fought a lot of battle not with some one else but yourself and if you end up making it,
+that means you won and congratulations to yourself because you did it 🤝.
+
 
 <!--
+
 **Emmanuelking24/Emmanuelking24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
